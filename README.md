@@ -1,4 +1,9 @@
-### This is Mohammad Abu Tareq Rony
+###  Hi this is Abu Tareq Rony hailing from Chittagong, Bangladesh. I am pursuing a career in Data Science. AI is the future and I am trying to build the future!I have profound knowledge in Data Analysis, Machine Learning, and now practicing Deep Learning and NLP. Currently, I am pursuing my Undergraduate Degree in Statistics from The Noakhali Science and Technology University(NSTU), Bangladesh. 
+
+My research interests are Data Analysis, Machine Learning, and NLP. Let’s connect if you want to collab and create something awesome in the world of machine learning. You can check out my research work from the following.
+
+<a href="https://www.researchgate.net/Abu Tareq Rony"><img src="https://img.shields.io/badge/-@Abu Tareq Rony-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+
 Skills: Pthon / R / SPSS / STATA / Latex
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Tareq-Rony)](https://github.com/anuraghazra/github-readme-stats)
