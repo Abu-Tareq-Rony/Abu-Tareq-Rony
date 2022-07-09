@@ -22,6 +22,7 @@ Skills: Pthon, R, SPSS, STATA, Latex
 <a href="https://facebook.com/Abu Tareq Rony"><img src="https://img.shields.io/badge/-Abu Tareq Rony-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://fiverr.com/abutareqrony"><img src="https://img.shields.io/badge/-abutareqrony-1877F2?style=flat&logo=Fiverr&logoColor=white"/></a>
 <a href="https://medium.com/@abutareqrony"><img src="https://img.shields.io/badge/-abutareqrony-1877F2?style=flat&logo=Medium&logoColor=white"/></a>
+<a href="https://linkdln.com/@abutareqrony"><img src="https://img.shields.io/badge/-abutareqrony-1877F2?style=flat&logo=Linkdln&logoColor=white"/></a>
 </p>
 
 
