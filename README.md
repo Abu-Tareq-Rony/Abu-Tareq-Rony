@@ -8,18 +8,18 @@ My research interests are Data Analysis, Machine Learning, and NLP. Let’s conn
 
 <a href="https://www.researchgate.net/profile/Mohammad-Abu-Rony"><img src="https://img.shields.io/badge/-@Mohammad Abu Tareq Rony-E4405F?style=flat&logo=researchgate&logoColor=white"/></a>
 
-Skills: Pthon, R, SPSS, STATA, Latex
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Tareq-Rony)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abu-Tareq-Rony)  
 
 ![Profile views](https://gpvc.arturio.dev/Abu-Tareq-Rony)  
 
+##Language and Tools:
 
 <div>
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/R/R-original.svg" title="R" alt="R " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
