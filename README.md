@@ -2,7 +2,7 @@
 
 My research interests are Data Analysis, Machine Learning, and NLP. Let’s connect if you want to collab and create something awesome in the world of machine learning. You can check out my research work from the following.
 
-<a href="https://www.researchgate.net/Abu Tareq Rony"><img src="https://img.shields.io/badge/-@Abu Tareq Rony-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.researchgate.net/Mohammad Abu Tareq Rony"><img src="https://img.shields.io/badge/-@Mohammad Abu Tareq Rony-E4405F?style=flat&logo=researchgate&logoColor=white"/></a>
 
 Skills: Pthon / R / SPSS / STATA / Latex
 
