@@ -14,6 +14,8 @@ My research interests are Data Analysis, Machine Learning, and NLP. Let’s conn
 
 ![Profile views](https://gpvc.arturio.dev/Abu-Tareq-Rony)  
 
+
+ <img src="https://github-readme-stats.vercel.app/api?username=Abu-Tareq-Rony&show_icons=true" alt="akshaykrjain" /> </p>
 Language and Tools:
 
 <div>
