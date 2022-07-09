@@ -1,11 +1,14 @@
 ##  Hi this is Abu Tareq Rony hailing from Chittagong, Bangladesh. I am pursuing a career in Data Science. AI is the future and I am trying to build the future!I have profound knowledge in Data Analysis, Machine Learning, and now practicing Deep Learning and NLP. Currently, I am pursuing my Undergraduate Degree in Statistics from The Noakhali Science and Technology University(NSTU), Bangladesh. 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 My research interests are Data Analysis, Machine Learning, and NLP. Let’s connect if you want to collab and create something awesome in the world of machine learning. You can check out my research work from the following:
 
 <a href="https://www.researchgate.net/profile/Mohammad-Abu-Rony"><img src="https://img.shields.io/badge/-@Mohammad Abu Tareq Rony-E4405F?style=flat&logo=researchgate&logoColor=white"/></a>
 
-Skills: Pthon / R / SPSS / STATA / Latex
-
+Skills: Pthon, R, SPSS, STATA, Latex
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Tareq-Rony)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abu-Tareq-Rony)  
