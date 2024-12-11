@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
 
-My research interests are Data Analysis, Machine Learning, and NLP. Let’s connect if you want to collab and create something awesome in the world of machine learning. You can check out my research work from the following:
+Let’s connect if you want to collab and create something awesome in the world of machine learning. You can check out my research work from the following:
 
 <a href="https://www.researchgate.net/profile/Mohammad-Abu-Rony"><img src="https://img.shields.io/badge/-@Mohammad Abu Tareq Rony-E4405F?style=flat&logo=researchgate&logoColor=white"/></a>
 
