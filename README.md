@@ -1,5 +1,4 @@
-##### Hi this is Abu Tareq Rony hailing from Chittagong, Bangladesh. I am pursuing a career in Data Science. AI is the future and I am trying to build the future!I have profound knowledge in Data Analysis, Machine Learning, and now practicing Deep Learning and NLP. Currently, I am pursuing my Undergraduate Degree in Statistics from The Noakhali Science and Technology University(NSTU), Bangladesh. 
-
+##### Hi this is Abu Tareq Rony hailing from Dhaka, Bangladesh. My research interests are Natural Language Processing, Large Language Models, Machine Learning, and Computer Vision. I have significant research experience, having published articles in esteemed journals and conference proceedings, including IEEE, Elsevier, Springer, EMNLP Workshop, and various international conferences. Moreover, I have served as a Reviewer for Elsevier, Springer, IEEE Access, NeurIPS Workshop, and Wiley and have reviewed over 20 research papers. Professionally, I have excelled as a Data Science Specialist and Instructor, completing numerous real-world projects on platforms like Fiverr and teaching Statistics and Data Science courses at aiQuest Intelligence.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
